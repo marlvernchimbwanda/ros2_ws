@@ -1,0 +1,35 @@
+[0.757s] Invoking command in '/home/uozrobotics/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/uozrobotics/ros2_ws/build/my_robot_controller/prefix_override:/home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/uozrobotics/ros2_ws/build/my_robot_controller/build install --record /home/uozrobotics/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[0.960s] running egg_info
+[0.961s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.961s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.961s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.961s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.962s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.962s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.962s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.963s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.964s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.964s] running build
+[0.964s] running build_py
+[0.964s] creating /home/uozrobotics/ros2_ws/build/my_robot_controller/build
+[0.964s] creating /home/uozrobotics/ros2_ws/build/my_robot_controller/build/lib
+[0.964s] creating /home/uozrobotics/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.964s] copying my_robot_controller/__init__.py -> /home/uozrobotics/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.964s] running install
+[0.981s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.981s]   warnings.warn(
+[0.981s] running install_lib
+[0.982s] creating /home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.982s] copying /home/uozrobotics/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.982s] byte-compiling /home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.982s] running install_data
+[0.983s] creating /home/uozrobotics/ros2_ws/install/my_robot_controller/share/ament_index
+[0.983s] creating /home/uozrobotics/ros2_ws/install/my_robot_controller/share/ament_index/resource_index
+[0.983s] creating /home/uozrobotics/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.983s] copying resource/my_robot_controller -> /home/uozrobotics/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.983s] copying package.xml -> /home/uozrobotics/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.983s] running install_egg_info
+[0.984s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.985s] running install_scripts
+[1.003s] writing list of installed files to '/home/uozrobotics/ros2_ws/build/my_robot_controller/install.log'
+[1.022s] Invoked command in '/home/uozrobotics/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/uozrobotics/ros2_ws/build/my_robot_controller/prefix_override:/home/uozrobotics/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/uozrobotics/ros2_ws/build/my_robot_controller/build install --record /home/uozrobotics/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
